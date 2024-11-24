@@ -12,6 +12,8 @@
 1º Bimestre (N1) - A Proposta, Dataset, Análise Exploratória/Preparação dos Dados e Relatório \
 2º Bimestre (N2) - Desenvolvimento, Resultados e Relatório Completo
 
+**Link (vídeo explicativo)**: https://www.youtube.com/watch?v=8EKMiIveRTA
+
 # Classificação de Cogumelos Comestíveis e Venenosos com Aprendizado de Máquina
 
 Este projeto utiliza algoritmos de aprendizado de máquina para classificar cogumelos como comestíveis ou venenosos com base em suas características físicas e ecológicas. O modelo foi treinado com um dataset público e busca contribuir para a segurança alimentar, evitando o consumo acidental de cogumelos venenosos.
